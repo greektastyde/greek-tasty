@@ -18,7 +18,7 @@ export default function MenuPage() {
               menuHeader={<a className="text-center text-xl">IMBISS</a>} 
             />
               <div className="item-center mt-2">
-                <img src={'/imbiss.png'} className="max-h-auto block mx-auto" alt="menu"/>
+                <img src={'/imbiss.png'} className="max-h-auto block mx-auto" alt="Imbiss"/>
               </div>
           </div>
           <div className="bg-gray-200 p-4 rounded-lg group hover:bg-white hover:shadow-md hover:shadow-black/25 transition-all">
@@ -26,47 +26,47 @@ export default function MenuPage() {
               menuHeader={<a className="text-center text-xl">GYROS</a>} 
             />
               <div className="item-center mt-2">
-                <img src={'/gyros.png'} className="max-h-auto block mx-auto" alt="menu"/>
+                <img src={'/gyros.png'} className="max-h-auto block mx-auto" alt="Gyros"/>
               </div>
           </div>
           <div className="bg-gray-200 p-4 rounded-lg group hover:bg-white hover:shadow-md hover:shadow-black/25 transition-all">
             <SectionHeaders
-              menuHeader={<a className="text-center text-xl">pita gerollt</a>} 
+              menuHeader={<a className="text-center text-xl">Pita Gerollt</a>} 
             />
               <div className="item-center mt-2">
-                <img src={'/pita.png'} className="max-h-auto block mx-auto" alt="menu"/>
+                <img src={'/pita.png'} className="max-h-auto block mx-auto" alt="Pita Gerollt"/>
               </div>
           </div>
           <div className="bg-gray-200 p-4 rounded-lg group hover:bg-white hover:shadow-md hover:shadow-black/25 transition-all">
             <SectionHeaders
-              menuHeader={<a className="text-center text-xl">burger</a>} 
+              menuHeader={<a className="text-center text-xl">Burger</a>} 
             />
               <div className="item-center mt-2">
-                <img src={'/burger.png'} className="max-h-auto block mx-auto" alt="menu"/>
+                <img src={'/burger.png'} className="max-h-auto block mx-auto" alt="Burger"/>
               </div>
           </div>
           <div className="bg-gray-200 p-4 rounded-lg group hover:bg-white hover:shadow-md hover:shadow-black/25 transition-all">
             <SectionHeaders
-              menuHeader={<a className="text-center text-xl">schnitzel</a>} 
+              menuHeader={<a className="text-center text-xl">Schnitzel</a>} 
             />
               <div className="item-center mt-2">
-                <img src={'/schnitzel.png'} className="max-h-auto block mx-auto" alt="menu"/>
+                <img src={'/schnitzel.png'} className="max-h-auto block mx-auto" alt="Schnitzel"/>
               </div>
           </div>
           <div className="bg-gray-200 p-4 rounded-lg group hover:bg-white hover:shadow-md hover:shadow-black/25 transition-all">
             <SectionHeaders
-              menuHeader={<a className="text-center text-xl">grill</a>} 
+              menuHeader={<a className="text-center text-xl">Grill</a>} 
             />
               <div className="item-center mt-2">
-                <img src={'/grill.png'} className="max-h-auto block mx-auto" alt="menu"/>
+                <img src={'/grill.png'} className="max-h-auto block mx-auto" alt="Grill"/>
               </div>
           </div>
           <div className="bg-gray-200 p-4 rounded-lg group hover:bg-white hover:shadow-md hover:shadow-black/25 transition-all">
             <SectionHeaders
-              menuHeader={<a className="text-center text-xl">pizza</a>} 
+              menuHeader={<a className="text-center text-xl">Pizza</a>} 
             />
               <div className="item-center mt-2">
-                <img src={'/pizza.png'} className="max-h-auto block mx-auto" alt="menu"/>
+                <img src={'/pizza.png'} className="max-h-auto block mx-auto" alt="Pizza"/>
               </div>
           </div>
           <div className="bg-gray-200 p-4 rounded-lg group hover:bg-white hover:shadow-md hover:shadow-black/25 transition-all">
@@ -74,7 +74,7 @@ export default function MenuPage() {
               menuHeader={<a className="text-center text-xl">Salate & Saucen</a>} 
             />
               <div className="item-center mt-2">
-                <img src={'/salat_sauce.png'} className="max-h-auto block mx-auto" alt="menu"/>
+                <img src={'/salat_sauce.png'} className="max-h-auto block mx-auto" alt="Salate & Saucen"/>
               </div>
           </div>
           <div className="bg-gray-200 p-4 rounded-lg group hover:bg-white hover:shadow-md hover:shadow-black/25 transition-all">
@@ -82,7 +82,7 @@ export default function MenuPage() {
               menuHeader={<a className="text-center text-xl">Kalte Getranke</a>} 
             />
               <div className="item-center mt-2">
-                <img src={'/drinks.png'} className="max-h-auto block mx-auto" alt="menu"/>
+                <img src={'/drinks.png'} className="max-h-auto block mx-auto" alt="Kalte Getranke"/>
               </div>
           </div>
         </div>
