@@ -74,7 +74,7 @@ export default function MenuPage() {
               menuHeader={<a className="text-center text-xl">Salate & Saucen</a>} 
             />
               <div className="item-center mt-2">
-                <img src={'/salat_sauce.png'} className="max-h-auto block mx-auto" alt="Salate und Saucen"/>
+                <img src={'/salat_sauce.png'} className="max-h-auto block mx-auto" alt="Salate & Saucen"/>
               </div>
           </div>
           <div className="bg-gray-200 p-4 rounded-lg group hover:bg-white hover:shadow-md hover:shadow-black/25 transition-all">
