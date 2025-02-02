@@ -82,7 +82,7 @@ export default function MenuPage() {
               menuHeader={<a className="text-center text-xl">Kalte Getranke</a>} 
             />
               <div className="item-center mt-2">
-                <img src={'/drinks.png'} className="max-h-auto block mx-auto" alt="Kalte Getranke"/>
+                <img src={'/kalte_getranke.png'} className="max-h-auto block mx-auto" alt="Kalte Getranke"/>
               </div>
           </div>
         </div>
