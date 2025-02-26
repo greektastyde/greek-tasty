@@ -21,13 +21,14 @@ const menuData = {
   },
   gyros: {
     images: [
+      { src: "/food_1.png", alt: "Gyros", caption: "Gyros Komplet" },
       { src: "/gyros_spezial.png", alt: "Gyros", caption: "Gyros Spezial" },
       { src: "/wbfk.png", alt: "Gyros" }
     ]
   },
   pita: {
     images: [
-      // { src: "/pita.png", alt: "Pita Gerollt", caption: "Pita Gerollt" },
+      { src: "/gpga.png", alt: "Pita Gerollt", caption: "Gyros Pita Griechische Art" },
       { src: "/wbfk.png", alt: "Pita Gerollt" }
     ]
   },
@@ -39,8 +40,8 @@ const menuData = {
   },
   schnitzel: {
     images: [
-      { src: "/nkb.png", alt: "Schnitzel" }
-      // { src: "/schnitzel.png", alt: "Schnitzel", caption: "Schnitzel" }
+      { src: "/schnitzel-holla.png", alt: "Schnitzel", caption: "Schnitzel" },
+      { src: "/wbfk.png", alt: "Schnitzel" }
     ]
   },
   grill: {
@@ -51,7 +52,7 @@ const menuData = {
   },
   pizza: {
     images: [
-      { src: "/pizza_veggie2.png", alt: "Pizza", caption: "Pizza Veggie" },
+      { src: "/pizza_veggie.png", alt: "Pizza", caption: "Pizza Veggie" },
       { src: "/wbfk.png", alt: "Pizza" }
     ]
   },
