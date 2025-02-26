@@ -11,8 +11,8 @@ module.exports = {
         primary: '#055bb6',
         graylight: '#6D6D6D',
         balck: '#000000',
-        white:'#ffffff'
-        
+        white:'#ffffff',
+        rot:'#eb1d1d'
       },
     },
   },
