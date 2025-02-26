@@ -40,7 +40,7 @@ const menuData = {
   },
   schnitzel: {
     images: [
-      { src: "/schnitzel-holla.png", alt: "Schnitzel", caption: "Schnitzel" },
+      { src: "/schnitzel-holla.png", alt: "Schnitzel", caption: "Käse-Hollandaise" },
       { src: "/wbfk.png", alt: "Schnitzel" }
     ]
   },
