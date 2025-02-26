@@ -127,7 +127,7 @@ export default function MenuPage() {
             <img src={'/imbiss.png'} className="max-h-auto block mx-auto" alt="Imbiss"/>
             <ProductModal 
               buttonText="Speisekarte anzeigen"
-              buttonClassName="bg-red-500 hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
+              buttonClassName="bg-rot hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
               images={menuData.imbiss.images}
               
             />
@@ -143,7 +143,7 @@ export default function MenuPage() {
             <img src={'/gyros.png'} className="max-h-auto block mx-auto" alt="Gyros"/>
             <ProductModal 
               buttonText="Speisekarte anzeigen"
-              buttonClassName="bg-red-500 hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
+              buttonClassName="bg-rot hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
               images={menuData.gyros.images}
             />
           </div>
@@ -158,7 +158,7 @@ export default function MenuPage() {
             <img src={'/pita.png'} className="max-h-auto block mx-auto" alt="Pita Gerollt"/>
             <ProductModal 
               buttonText="Speisekarte anzeigen"
-              buttonClassName="bg-red-500 hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
+              buttonClassName="bg-rot hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
               images={menuData.pita.images}
             />
           </div>
@@ -173,7 +173,7 @@ export default function MenuPage() {
             <img src={'/burger.png'} className="max-h-auto block mx-auto" alt="Burger"/>
             <ProductModal 
               buttonText="Speisekarte anzeigen"
-              buttonClassName="bg-red-500 hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
+              buttonClassName="bg-rot hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
               images={menuData.burger.images}
             />
           </div>
@@ -188,7 +188,7 @@ export default function MenuPage() {
             <img src={'/schnitzel.png'} className="max-h-auto block mx-auto" alt="Schnitzel"/>
             <ProductModal 
               buttonText="Speisekarte anzeigen"
-              buttonClassName="bg-red-500 hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
+              buttonClassName="bg-rot hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
               images={menuData.schnitzel.images}
               title={menuData.schnitzel.title}
             />
@@ -204,7 +204,7 @@ export default function MenuPage() {
             <img src={'/grill.png'} className="max-h-auto block mx-auto" alt="Grill"/>
             <ProductModal 
               buttonText="Speisekarte anzeigen"
-              buttonClassName="bg-red-500 hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
+              buttonClassName="bg-rot hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
               images={menuData.grill.images}
             />
           </div>
@@ -219,7 +219,7 @@ export default function MenuPage() {
             <img src={'/pizza.png'} className="max-h-auto block mx-auto" alt="Pizza"/>
             <ProductModal 
               buttonText="Speisekarte anzeigen"
-              buttonClassName="bg-red-500 hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
+              buttonClassName="bg-rot hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
               images={menuData.pizza.images}
             />
           </div>
@@ -234,7 +234,7 @@ export default function MenuPage() {
             <img src={'/salat_sauce.png'} className="max-h-auto block mx-auto" alt="Salate & Saucen"/>
             <ProductModal 
               buttonText="Speisekarte anzeigen"
-              buttonClassName="bg-red-500 hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
+              buttonClassName="bg-rot hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
               images={menuData.salate.images}
             />
           </div>
@@ -249,7 +249,7 @@ export default function MenuPage() {
             <img src={'/kalte_getranke.png'} className="max-h-auto block mx-auto" alt="Kalte Getränke"/>
             <ProductModal 
               buttonText="Speisekarte anzeigen"
-              buttonClassName="bg-red-500 hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
+              buttonClassName="bg-rot hover:bg-red-600 text-white px-4 py-2 mt-4 rounded-lg transition-colors"
               images={menuData.getranke.images}
             />
           </div>
