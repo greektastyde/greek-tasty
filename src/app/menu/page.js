@@ -23,13 +23,13 @@ const menuData = {
     images: [
       { src: "/food_1.png", alt: "Gyros", caption: "Gyros Komplet" },
       { src: "/gyros_spezial.png", alt: "Gyros", caption: "Gyros Spezial" },
-      { src: "/club_gyros.png", alt: "Gyros", caption: "Club Gyros" },
+      { src: "/gpga.png", alt: "Gyros", caption: "Gyros Pita Griechische Art" },
       { src: "/wbfk.png", alt: "Gyros" }
     ]
   },
   pita: {
     images: [
-      { src: "/gpga.png", alt: "Pita Gerollt", caption: "Gyros Pita Griechische Art" },
+      { src: "/club_gyros.png", alt: "Pita Gerollt", caption: "Club Gyros" },
       { src: "/wbfk.png", alt: "Pita Gerollt" }
     ]
   },
