@@ -23,6 +23,7 @@ const menuData = {
     images: [
       { src: "/food_1.png", alt: "Gyros", caption: "Gyros Komplet" },
       { src: "/gyros_spezial.png", alt: "Gyros", caption: "Gyros Spezial" },
+      { src: "/club_gyros.png", alt: "Gyros", caption: "Club Gyros" },
       { src: "/wbfk.png", alt: "Gyros" }
     ]
   },
