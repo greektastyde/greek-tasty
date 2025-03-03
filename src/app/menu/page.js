@@ -9,8 +9,8 @@ const menuData = {
   imbiss: {
     // title: "IMBISS",
     images: [
-      { src: "/nkb.png", alt: "Imbiss"}
-      // { src: "/nkb.png", alt: "Imbiss", caption: "Imbiss" }
+      { src: "/pommes.png", alt: "Imbiss", caption: "Große/Kleine Pommes" },
+      { src: "/wbfk.png", alt: "Imbiss", caption: "Imbiss" }
     ]
     // description: "Unsere Imbiss-Spezialitäten werden frisch zubereitet und sind perfekt für einen schnellen, leckeren Snack.",
     // items: [
@@ -22,6 +22,7 @@ const menuData = {
   gyros: {
     images: [
       { src: "/food_1.png", alt: "Gyros", caption: "Gyros Komplet" },
+      { src: "/gyros_metaxa.png", alt: "Gyros", caption: "Metaxa Gyros Überbacken" },
       { src: "/gyros_spezial.png", alt: "Gyros", caption: "Gyros Spezial" },
       { src: "/gpga.png", alt: "Gyros", caption: "Gyros Pita Griechische Art" },
       { src: "/wbfk.png", alt: "Gyros" }
@@ -42,6 +43,7 @@ const menuData = {
   schnitzel: {
     images: [
       { src: "/schnitzel-holla.png", alt: "Schnitzel", caption: "Käse-Hollandaise" },
+      { src: "/schnitzel-metaxa.png", alt: "Schnitzel", caption: "Käse-Metaxa" },
       { src: "/wbfk.png", alt: "Schnitzel" }
     ]
   },
@@ -53,6 +55,8 @@ const menuData = {
   },
   pizza: {
     images: [
+      { src: "/pizza_sch.png", alt: "Pizza", caption: "Pizza Schinken" },
+      { src: "/pizza_gyros.png", alt: "Pizza", caption: "Pizza Gyros" },
       { src: "/pizza_veggie.png", alt: "Pizza", caption: "Pizza Veggie" },
       { src: "/wbfk.png", alt: "Pizza" }
     ]
