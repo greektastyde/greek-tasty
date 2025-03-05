@@ -9,7 +9,10 @@ const menuData = {
   imbiss: {
     // title: "IMBISS",
     images: [
+      { src: "/frikadelle.png", alt: "Imbiss", caption: "Frikadelle" },
       { src: "/pommes.png", alt: "Imbiss", caption: "Große/Kleine Pommes" },
+      { src: "/kroketten.png", alt: "Imbiss", caption: "Kroketten" },
+      { src: "/reis.png", alt: "Imbiss", caption: "Reis" },
       { src: "/wbfk.png", alt: "Imbiss", caption: "Imbiss" }
     ]
     // description: "Unsere Imbiss-Spezialitäten werden frisch zubereitet und sind perfekt für einen schnellen, leckeren Snack.",
@@ -24,6 +27,7 @@ const menuData = {
       { src: "/food_1.png", alt: "Gyros", caption: "Gyros Komplet" },
       { src: "/gyros_metaxa.png", alt: "Gyros", caption: "Metaxa Gyros Überbacken" },
       { src: "/gyros_spezial.png", alt: "Gyros", caption: "Gyros Spezial" },
+      { src: "/gyros_feta.png", alt: "Gyros", caption: "Gyros mit Feta Überbacken" },
       { src: "/gpga.png", alt: "Gyros", caption: "Gyros Pita Griechische Art" },
       { src: "/wbfk.png", alt: "Gyros" }
     ]
@@ -44,7 +48,10 @@ const menuData = {
     images: [
       { src: "/schnitzel-holla.png", alt: "Schnitzel", caption: "Käse-Hollandaise" },
       { src: "/schnitzel-metaxa.png", alt: "Schnitzel", caption: "Käse-Metaxa" },
-      { src: "/wbfk.png", alt: "Schnitzel" }
+      { src: "/schnitzel-hawail.png", alt: "Schnitzel", caption: "Käse-Hawail" },
+      { src: "/schnitzel-sahne.png", alt: "Schnitzel", caption: "Käse-Sahne" },
+      { src: "/schnitzel-rahm.png", alt: "Schnitzel", caption: "Käse-Rahm" },
+      { src: "/schnitzel-h.png", alt: "Schnitzel", caption: "Hähnchenschnitzel" }
     ]
   },
   grill: {
@@ -55,10 +62,11 @@ const menuData = {
   },
   pizza: {
     images: [
+      { src: "/pizza_salami.png", alt: "Pizza", caption: "Pizza Salami" },
       { src: "/pizza_sch.png", alt: "Pizza", caption: "Pizza Schinken" },
+      { src: "/pizza_thun.png", alt: "Pizza", caption: "Pizza Thunfisch" },
       { src: "/pizza_gyros.png", alt: "Pizza", caption: "Pizza Gyros" },
-      { src: "/pizza_veggie.png", alt: "Pizza", caption: "Pizza Veggie" },
-      { src: "/wbfk.png", alt: "Pizza" }
+      { src: "/pizza_veggie.png", alt: "Pizza", caption: "Pizza Veggie" }
     ]
   },
   salate: {
