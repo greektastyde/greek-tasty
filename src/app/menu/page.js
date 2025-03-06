@@ -18,8 +18,7 @@ const menuData = {
       { src: "/pommes.png", alt: "Imbiss", caption: "Große/Kleine Pommes" },
       { src: "/kroketten.png", alt: "Imbiss", caption: "Kroketten" },
       { src: "/country.png", alt: "Imbiss", caption: "Country Potatoes" },
-      { src: "/reis.png", alt: "Imbiss", caption: "Reis" },
-      { src: "/wbfk.png", alt: "Imbiss", caption: "Imbiss" }
+      { src: "/reis.png", alt: "Imbiss", caption: "Reis" }
     ]
     // description: "Unsere Imbiss-Spezialitäten werden frisch zubereitet und sind perfekt für einen schnellen, leckeren Snack.",
     // items: [
