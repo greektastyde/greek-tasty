@@ -9,9 +9,15 @@ const menuData = {
   imbiss: {
     // title: "IMBISS",
     images: [
+     { src: "/bratwurst.png", alt: "Imbiss", caption: "Bratwurst" },
       { src: "/frikadelle.png", alt: "Imbiss", caption: "Frikadelle" },
+      { src: "/currywurst.png", alt: "Imbiss", caption: "Currywurst-Pommes" },
+      { src: "/hotdog.png", alt: "Imbiss", caption: "Hot Dog" },
+      { src: "/nuggets.png", alt: "Imbiss", caption: "Nuggets Pommes" },
+      { src: "/chickenwings.png", alt: "Imbiss", caption: "Chickenwings Pommes" },
       { src: "/pommes.png", alt: "Imbiss", caption: "Große/Kleine Pommes" },
       { src: "/kroketten.png", alt: "Imbiss", caption: "Kroketten" },
+      { src: "/country.png", alt: "Imbiss", caption: "Country Potatoes" },
       { src: "/reis.png", alt: "Imbiss", caption: "Reis" },
       { src: "/wbfk.png", alt: "Imbiss", caption: "Imbiss" }
     ]
