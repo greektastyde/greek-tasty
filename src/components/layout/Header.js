@@ -13,6 +13,9 @@ export default function Header() {
       <Link className= "" href={'/'}>
             <Image src={'/logo.png'} width={70} height={70}/>
           </Link> 
+    <Link href={'https://greek-tasty.order.app.hd.digital/menus'} className="bg-primary rounded text-white px-8 py-2 inknut">
+        Online bestellen
+        </Link>
         <div className="flex gap-8 items-center">
           <button
             className="p-1 border"
@@ -30,9 +33,6 @@ export default function Header() {
           <Link href={'/#opentime'}>Öffnungszeiten</Link>
           <Link href={'/#about'}>Über Uns</Link>
           <Link href={'/#contact'}>Kontakt</Link>
-          <Link href={'https://greek-tasty.order.app.hd.digital/menus'} className="bg-primary rounded text-white px-8 py-2 inknut">
-        Online bestellen
-        </Link>
         </div>
       )}
       <div className="hidden md:flex items-center justify-between">
