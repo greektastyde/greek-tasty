@@ -32,9 +32,9 @@ export default function Hero() {
        
         </div>
       </div>
-      <div className="ml-12">
-      <div className=" hidden md:block bg-gray-200 p-4 rounded-lg hover:shadow-md hover:shadow-black/25 ">
-        <Image src={'/food.jpg'} width={500} height={500} alt={'pizza'} />
+      <div className="xl:ml-12">
+      <div className="md:block bg-gray-200 p-4 rounded-lg hover:shadow-md hover:shadow-black/25 ">
+        <Image src={'/wa.png'} width={500} height={500} alt={'Wichtige Ankündigung'} />
       </div>
       </div>
     </section>
