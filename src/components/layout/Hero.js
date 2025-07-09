@@ -32,10 +32,16 @@ export default function Hero() {
        
         </div>
       </div>
-      <div className="md:ml-12">
-      <div className="md:block bg-gray-200 p-4 rounded-lg hover:shadow-md hover:shadow-black/25 ">
-        <Image src={'/wa.png'} width={500} height={500} alt={'Wichtige Ankündigung'} />
-      </div>
+      <div className="md:ml-12 relative">
+        <div className="md:block bg-gray-200 p-4 rounded-lg hover:shadow-md hover:shadow-black/25 ">
+          <Image src={'/gttk.PNG'} width={500} height={300} alt={'Greek Tasty Treuer Kunde'} />
+        </div>
+        <div className="absolute inset-0  items-center justify-center p-6">
+          <p className="text-white text-center text-lg font-semibold bg-black/50 p-4 rounded-lg">
+            Bestellen Sie über unsere Website oder telefonisch und sammeln Sie 10 Stempel. 
+            Bei Ihrer nächsten Bestellung schenken wir Ihnen ein Wunschmenü. Nicht verpassen!
+          </p>
+        </div>
       </div>
     </section>
   );
